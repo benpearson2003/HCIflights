@@ -8,7 +8,7 @@ package itinerary;
 
 /**
  *
- * @author pxtanthaphen
+ * @author bapearson
  */
 public class CreditCard {
     private String ccNumber;
